@@ -1,0 +1,23 @@
+{
+  "iconInfo": {
+    "a": {
+      "title": "Platelet Count",
+      "color": "red",
+      "info": "This icon represents the platelet count, which is a crucial part of the study."
+    },
+    "b": { "title": "Questionnaires", "color": "black" },
+    "c": { "title": "Study Drug Administration", "color": "green" },
+    "d": { "title": "Bleeding Score", "color": "red" },
+    "e": { "title": "Blood and Urine Sample", "color": "orange" },
+    "f": {
+      "title": "Study Drug Administration (if applicable)",
+      "color": "gray"
+    },
+    "g": { "title": "Vital Signs", "color": "blue" },
+    "h": { "title": "Blood Sample Collection", "color": "red" },
+    "i": { "title": "Weight", "color": "blue" },
+    "j": { "title": "Physical Exam", "color": "blue" },
+    "k": { "title": "ECG", "color": "blue" },
+    "l": { "title": "Weight (if applicable)", "color": "gray" }
+  }
+}

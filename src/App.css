@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.odd {
+  background-color: #f4fff4;
+}
+
+.ok {
+  background-color: #ddffdd;
+}
