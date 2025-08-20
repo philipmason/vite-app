@@ -251,7 +251,7 @@ function App() {
         </Toolbar>
       </AppBar>
       <Box
-        sx={{ width: window.innerWidth - 50, height: window.innerHeight - 200 }}
+        sx={{ width: window.winWidth - 100, height: window.innerHeight - 100 }}
       >
         <DataGridPro
           rows={rows}
@@ -260,7 +260,6 @@ function App() {
           // rowHeight={30}
           getRowId={() => Math.random()}
           sx={{
-            // height: windowDimension.winHeight - topMargin,
             fontFamily: "system-ui;",
             fontWeight: "fontSize=5",
             fontSize: "0.7em",
