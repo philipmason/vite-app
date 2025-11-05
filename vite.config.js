@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "https://argenxbvba.sharepoint.com/sites/Biostatistics/Shared%20Documents/apps/patient",
+  base: "/sites/Biostatistics/Shared%20Documents/apps/patient/",
 });
